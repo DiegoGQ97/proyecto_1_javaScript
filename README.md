@@ -21,4 +21,4 @@
 ## 👥 Creadores
 *   **Pedro Mollers** - [GitHub](https://github.com/PeddroM)
 *   **Diego González** - [GitHub](https://github.com/DiegoGQ97)
-*   **Manuel**
+*   **Manuel Muñoz** - [GitHub](https://github.com/Manolo95-beep)
