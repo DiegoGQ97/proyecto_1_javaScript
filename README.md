@@ -2,7 +2,7 @@
 
 ¡Bienvenido a **HardWell**! Este es un proyecto interactivo que simula una tarjeta de producto para una memoria RAM de alto rendimiento. Permite a los usuarios gestionar la cantidad de productos y calcular el total a pagar en tiempo real.
 
-🔗 **Demo en vivo:** [https://diegogq97.github.io](https://diegogq97.github.io)
+🔗 **Demo en vivo:** [https://diegogq97.github.io](https://diegogq97.github.io/proyecto_1_javaScript/)
 
 ## 🚀 Características
 *   **Cálculo en Tiempo Real:** El total a pagar se actualiza automáticamente al sumar o restar productos.
@@ -19,6 +19,6 @@
 *   **FontAwesome:** Iconografía para los controles y el carrito.
 
 ## 👥 Creadores
-*   **Pedro Mollers** - [GitHub](https://github.com)
-*   **Diego González** - [GitHub](https://github.com)
+*   **Pedro Mollers** - [GitHub](https://github.com/PeddroM)
+*   **Diego González** - [GitHub](https://github.com/DiegoGQ97)
 *   **Manuel**
